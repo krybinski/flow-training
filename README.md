@@ -1,7 +1,4 @@
-# Javascript Flow Training
-
-Flow training - static js type checker
-
+# Flow Training
 
 # Commands
 
