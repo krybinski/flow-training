@@ -1,0 +1,26 @@
+{
+  "name": "js-flow-training",
+  "version": "1.0.0",
+  "description": "JS Flow training - static type checker",
+  "main": "src/index.js",
+  "scripts": {
+    "flow": "flow",
+    "flow:watch": "flow-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krybinski/js-flow-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krybinski/js-flow-training/issues"
+  },
+  "homepage": "https://github.com/krybinski/js-flow-training#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.69.0",
+    "flow-watch": "^1.1.3"
+  }
+}
