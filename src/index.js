@@ -1,5 +1,5 @@
 /** @flow */
 
 function concat(a: string, b: string): string {
-    return a + b;
+	return `${a} ${b}`;
 }

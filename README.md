@@ -10,3 +10,6 @@ Initialize
 
 Check status
 `npm run flow status`
+
+Flow watcher
+`npm run flow:watch`
