@@ -1,5 +1,7 @@
 # Flow Training
 
+Basic Flow training with some simple and basic examples
+
 # Commands
 
 Initialize

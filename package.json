@@ -1,7 +1,7 @@
 {
-  "name": "js-flow-training",
+  "name": "flow-training",
   "version": "1.0.0",
-  "description": "JS Flow training - static type checker",
+  "description": "Basic Flow training with some simple and basic examples",
   "private": true,
   "scripts": {
     "flow": "flow",
